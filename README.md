@@ -5,7 +5,7 @@
 - __[GIT](https://git-scm.com/downloads)__ - Contrôle des versions du code source
 - __[NodeJS](https://nodejs.org/)__ - Gestion des librairies avec 'npm'
 ## Commencer un nouveau projet
-### Création de la fondation du code et accès au dossier dans VSCode
+### Création du code source et accès au dossier dans VSCode
     git clone git@github.com:noreading/bootstrap5-webpack-boilerplate.git nouveau-projet
     cd nouveau-projet
     code .

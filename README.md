@@ -23,8 +23,9 @@
 ### Installation des 'packs' du projet et démarrage de l'environement de développement
     npm install
 ### Démarrage de l'environement de développement
-    npm run dev
+    npm start
 ### Compilation d'une version prête au déploiement dans '/dist'
     npm run build
 ## Documentations externes
-- __[bootstrap5-webpack-boilerplate](https://github.com/noreading/bootstrap5-webpack-boilerplate)__ - Projet de départ HTML5 complet
+- __[bootstrap5-webpack-boilerplate](https://github.com/noreading/bootstrap5-webpack-boilerplate)__ - Fondation d'un projet HTML5 complet
+- - __[Bootstrap 5](https://getbootstrap.com/docs/5.0/customize/overview/)__ - Librairie UI/UX

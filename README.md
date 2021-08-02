@@ -5,10 +5,10 @@
 - __[GIT](https://git-scm.com/downloads)__ - Contrôle des versions
 - __[NodeJS](https://nodejs.org/)__ - JavaScript runtime (npm)
 ## Commencer un nouveau projet
-### Création de la base du projet et accès au dossier
+### Création de la fondation du code et accès au dossier du projet
     npx create-html5-boilerplate nouveau-projet
     cd nouveau-projet
-### Installation des packs du projet et démarrage de l'environement de développement
+### Installation des 'packs' du projet et démarrage de l'environement de développement
     npm install
     npm start
 ## Documentations externes

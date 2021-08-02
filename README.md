@@ -1,9 +1,9 @@
 # Guide pratique et outils pour développement UI/UX
 ## Installations requises
-- __[VSCode](https://code.visualstudio.com/)__ - Édition du code
-  - __[Swissknife](https://marketplace.visualstudio.com/items?itemName=luisfontes19.vscode-swissknife)__ - Pack de plugins pour VSCode
-- __[GIT](https://git-scm.com/downloads)__ - Contrôle des versions
-- __[NodeJS](https://nodejs.org/)__ - JavaScript runtime (npm)
+- __[VSCode](https://code.visualstudio.com/)__ - Édition du code source
+  - __[Swissknife](https://marketplace.visualstudio.com/items?itemName=luisfontes19.vscode-swissknife)__ - Collection d'extensions pour VSCode
+- __[GIT](https://git-scm.com/downloads)__ - Contrôle des versions du code source
+- __[NodeJS](https://nodejs.org/)__ - Gestion des librairies avec 'npm'
 ## Commencer un nouveau projet
 ### Création de la fondation du code et accès au dossier du projet dans VSCode
     git clone git@github.com:noreading/bootstrap5-webpack-boilerplate.git nouveau-projet
@@ -20,7 +20,7 @@
      "license": "MIT"
    } 
 ```
-### Installation des 'packs' du projet et démarrage de l'environement de développement
+### Installation des librairies du projet et démarrage de l'environement de développement
     npm install
 ### Démarrage de l'environement de développement
     npm start

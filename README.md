@@ -5,7 +5,7 @@
 - __[GIT](https://git-scm.com/downloads)__ - Contrôle des versions du code source
 - __[NodeJS](https://nodejs.org/)__ - Gestion des librairies avec 'npm'
 ## Commencer un nouveau projet
-### Création de la fondation du code et accès au dossier du projet dans VSCode
+### Création de la fondation du code et accès au dossier dans VSCode
     git clone git@github.com:noreading/bootstrap5-webpack-boilerplate.git nouveau-projet
     cd nouveau-projet
     code .
@@ -20,7 +20,7 @@
      "license": "MIT"
    } 
 ```
-### Installation des librairies du projet et démarrage de l'environement de développement
+### Installation des librairies et démarrage de l'environement de développement
     npm install
 ### Démarrage de l'environement de développement
     npm start

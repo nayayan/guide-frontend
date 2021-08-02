@@ -20,9 +20,9 @@
     "license": "MIT"
 } 
 ```
-### Installation des librairies et démarrage de l'environement de développement
+### Installation des librairies et démarrage de l'environnement de développement
     npm install
-### Démarrage de l'environement de développement
+### Démarrage de l'environnement de développement
     npm start
 ### Compilation d'une version prête au déploiement dans '/dist'
     npm run build

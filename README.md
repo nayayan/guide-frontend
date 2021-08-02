@@ -24,7 +24,7 @@
     npm install
 ### Démarrage de l'environement de développement
     npm run dev
-### Compilation d'une version prête au déploiement dans le dossier '/dist'
+### Compilation d'une version prête au déploiement dans '/dist'
     npm run build
 ## Documentations externes
-- __[html5-boilerplate](https://github.com/h5bp/html5-boilerplate/blob/v8.0.0/dist/doc/TOC.md)__ - Projet de départ HTML5 complet
+- __[bootstrap5-webpack-boilerplate](https://github.com/noreading/bootstrap5-webpack-boilerplate)__ - Projet de départ HTML5 complet

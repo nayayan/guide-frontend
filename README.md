@@ -27,4 +27,4 @@
     npm run build
 ## Documentations externes
 - __[bootstrap5-webpack-boilerplate](https://github.com/noreading/bootstrap5-webpack-boilerplate)__ - Fondation d'un projet HTML5 complet
-- - __[Bootstrap 5](https://getbootstrap.com/docs/5.0/customize/overview/)__ - Librairie UI/UX
+- __[Bootstrap 5](https://getbootstrap.com/docs/5.0/customize/overview/)__ - Librairie UI/UX

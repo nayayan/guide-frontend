@@ -20,7 +20,7 @@
     "license": "MIT"
 } 
 ```
-### Installation des librairies et démarrage de l'environnement de développement
+### Installation des librairies
     npm install
 ### Démarrage de l'environnement de développement
     npm start

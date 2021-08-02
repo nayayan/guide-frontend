@@ -12,14 +12,14 @@
 ### Réinitialisation du GIT
     rm -rf .git
 ### Modification du fichier package.json
-'''
+```
    {
      "name": "nouveau-projet",
      "description": "Description du nouveau-projet",
      "author": "Votre nom",
      "license": "MIT"
    } 
-'''
+```
 ### Installation des 'packs' du projet et démarrage de l'environement de développement
     npm install
 ### Démarrage de l'environement de développement
